@@ -1,16 +1,13 @@
-# Project NAME
+# RARV 3
+
+Projet par Thomas, Clémence et Hadrien
 
 ## Project detail
-Describe the project here.  
-If you need help go to [Markdown template](./MarkdownTemplate.md)
+Le PDF est dans ASSETS
 
 
 ## Installation
+Il faut mettre le unitypackage vuforia (https://developer.vuforia.com/downloads/sdk)
 
 
 ## Run the application
-
-
-## keywords
-This is used for internal usage at LINEACT, fille the keywords
-#keywords:kw1,kw2,kw3,... (TO COMPLETE WITH THE RIGHT KEYWORDs)
