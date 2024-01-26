@@ -1,9 +1,7 @@
 ## Unity ##
-
 *.cs diff=csharp text
 *.cginc text
 *.shader text
-
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
 *.unity merge=unityyamlmerge eol=lf
@@ -15,12 +13,9 @@
 LightingData.asset binary
 *.meta merge=unityyamlmerge eol=lf
 *.controller merge=unityyamlmerge eol=lf
-
-
 ## git-lfs ##
 ##git Large File System ##
 # uncomment below if your repository support git-lfs
-
 ##Image
 #*.jpg filter=lfs diff=lfs merge=lfs -text
 #*.jpeg filter=lfs diff=lfs merge=lfs -text
@@ -57,4 +52,4 @@ LightingData.asset binary
 #*.rns filter=lfs diff=lfs merge=lfs -text
 #*.reason filter=lfs diff=lfs merge=lfs -text
 #*.lxo filter=lfs diff=lfs merge=lfs -text
-
+*.tgz filter=lfs diff=lfs merge=lfs -text
